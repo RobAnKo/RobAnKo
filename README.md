@@ -2,11 +2,11 @@ Hello!
 
 Name: Robin Koch
 
-Work: Image Analysis and Biological Modeling
+Work: C# Backend development (formerly Image Analysis and Biological Modeling in python and Matlab)
 
-Interest: Sustainable Software Development for research
+Interest: Efficient development in teams, reproducible development for research
 
-Learning: python-based GUI
+Learning: software architectures and design patterns
 
 Fan of [napari](https://github.com/napari/napari), [SimpleElastix](https://github.com/SuperElastix/SimpleElastix) and [AdventOfCode](https://adventofcode.com/)
 
